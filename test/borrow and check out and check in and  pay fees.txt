@@ -1,0 +1,453 @@
+/////***************borrow and check out and check in and  pay fees***********************
+/*
+1.دخلت على اني باترون وحجزت كتاب 
+2.دخلت على اني لايبيرين 
+2.1.اعملت شك اوت 
+2.2.اتاكدت من الكتاب انته صار محجوز وتاخذ عن طريق الباترون 
+2.3. اعملت شك ان للكتاب وطلعت كم عليه غرامه تاخير 
+3. دخلت على اني الباترون ودفعت كم علي من غرامات 
+4.تم عرض الارباح ووالدبون التي على مستخدمين المكتبه 
+
+
+
+
+
+
+*/
+
+
+
+
+
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+3
+Enter Username : amr_2
+
+Enter Password : 2002
+****** Invalid access ********
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+3
+Enter Username : amr_1
+
+Enter Password : 2002
+**** HI , Welcome amr_1 ******
+
+1) Borrow a book
+2) pay fees
+3) view massages
+4) search for a specific book
+5) exit
+1
+All Availble books
+********************************************
+ books of love
+***************************************
+book title = Pride and Prejudice
+book author = Jane Austen
+book publication year = 1813
+book genre = love
+book ISBN = 9876
+book status = True
+***************************************
+=======================================
+ books of IT
+***************************************
+book title = Computers Made Easy
+book author = James Bernstein
+book publication year = 2018
+book genre = IT
+book ISBN = 1234
+book status = True
+***************************************
+***************************************
+book title = Building Your Own Computer Made Easy
+book author = James Bernstein
+book publication year = 2019
+book genre = IT
+book ISBN = 1235
+book status = True
+***************************************
+=======================================
+ books of sport
+***************************************
+book title = Barbarian Days
+book author = William Finnegan
+book publication year = 2015
+book genre = sport
+book ISBN = 5678
+book status = True
+***************************************
+***************************************
+book title = Blood Horses
+book author = John Jeremiah Sullivan
+book publication year = 2004
+book genre = sport
+book ISBN = 5679
+book status = True
+***************************************
+=======================================
+ books of Philosophy
+***************************************
+book title = Meditations
+book author = Marcus Aurelius
+book publication year = 180
+book genre = Philosophy
+book ISBN = 161
+book status = True
+***************************************
+***************************************
+book title = The Republic of Plato
+book author = Allan Bloom
+book publication year = 2016
+book genre = Philosophy
+book ISBN = 1116
+book status = True
+***************************************
+=======================================
+********************************************
+please enter name of the book you want to borrow
+The Republic of Plato
+**** HI , Welcome amr_1 ******
+
+1) Borrow a book
+2) pay fees
+3) view massages
+4) search for a specific book
+5) exit
+5
+****** Good bye ********
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+2
+Enter Username : moh_22
+
+Enter Password : 2002
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+5
+Enter the current date
+year = 2023
+month = 5
+day = 1
+Enter the return date
+year = 2023
+month = 5
+day = 6
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+2
+total number of books = 7
+***************************************
+book title = Pride and Prejudice
+book author = Jane Austen
+book publication year = 1813
+book genre = love
+book ISBN = 9876
+book status = True
+***************************************
+total number of  love  books  = 1
+***************************************
+book title = Computers Made Easy
+book author = James Bernstein
+book publication year = 2018
+book genre = IT
+book ISBN = 1234
+book status = True
+***************************************
+***************************************
+book title = Building Your Own Computer Made Easy
+book author = James Bernstein
+book publication year = 2019
+book genre = IT
+book ISBN = 1235
+book status = True
+***************************************
+total number of  IT  books  = 2
+***************************************
+book title = Barbarian Days
+book author = William Finnegan
+book publication year = 2015
+book genre = sport
+book ISBN = 5678
+book status = True
+***************************************
+***************************************
+book title = Blood Horses
+book author = John Jeremiah Sullivan
+book publication year = 2004
+book genre = sport
+book ISBN = 5679
+book status = True
+***************************************
+total number of  sport  books  = 2
+***************************************
+book title = Meditations
+book author = Marcus Aurelius
+book publication year = 180
+book genre = Philosophy
+book ISBN = 161
+book status = True
+***************************************
+***************************************
+book title = The Republic of Plato
+book author = Allan Bloom
+book publication year = 2016
+book genre = Philosophy
+book ISBN = 1116
+book status = False
+***************************************
+total number of  Philosophy  books  = 2
+total number of books in loan = 1
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+6
+Enter the book name
+The Republic of Plato
+Enter the current date
+year = 2023
+month = 5
+day = 10
+amr_1 total fees =  1.2
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+8
+******Good bye liberian********
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+1
+Enter Username :
+
+admin
+
+Enter Password
+
+1234
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+4
+total number of books = 7
+***************************************
+book title = Pride and Prejudice
+book author = Jane Austen
+book publication year = 1813
+book genre = love
+book ISBN = 9876
+book status = True
+***************************************
+total number of  love  books  = 1
+***************************************
+book title = Computers Made Easy
+book author = James Bernstein
+book publication year = 2018
+book genre = IT
+book ISBN = 1234
+book status = True
+***************************************
+***************************************
+book title = Building Your Own Computer Made Easy
+book author = James Bernstein
+book publication year = 2019
+book genre = IT
+book ISBN = 1235
+book status = True
+***************************************
+total number of  IT  books  = 2
+***************************************
+book title = Barbarian Days
+book author = William Finnegan
+book publication year = 2015
+book genre = sport
+book ISBN = 5678
+book status = True
+***************************************
+***************************************
+book title = Blood Horses
+book author = John Jeremiah Sullivan
+book publication year = 2004
+book genre = sport
+book ISBN = 5679
+book status = True
+***************************************
+total number of  sport  books  = 2
+***************************************
+book title = Meditations
+book author = Marcus Aurelius
+book publication year = 180
+book genre = Philosophy
+book ISBN = 161
+book status = True
+***************************************
+***************************************
+book title = The Republic of Plato
+book author = Allan Bloom
+book publication year = 2016
+book genre = Philosophy
+book ISBN = 1116
+book status = True
+***************************************
+total number of  Philosophy  books  = 2
+total number of books in loan = 0
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+9
+*********Good bye ADMIN*************
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+3
+Enter Username : amr_1
+
+Enter Password : 2002
+**** HI , Welcome amr_1 ******
+
+1) Borrow a book
+2) pay fees
+3) view massages
+4) search for a specific book
+5) exit
+2
+total fees = 1.2
+how much do u want to pay ?
+Amount = 1.2
+YOUR CURRENT  fees = 0
+**** HI , Welcome amr_1 ******
+
+1) Borrow a book
+2) pay fees
+3) view massages
+4) search for a specific book
+5) exit
+5
+****** Good bye ********
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+1
+Enter Username :
+
+admin
+
+Enter Password
+
+1234
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+6
+****************************************************
+total collected fines = 3.7
+total uncollected fines = -1
+****************************************************
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :

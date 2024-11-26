@@ -1,0 +1,103 @@
+/*
+
+send a massage automatclly
+send personal massage
+and patron view massge 
+
+
+
+
+*/
+
+
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+2
+Enter Username : moh_22
+
+Enter Password : 2002
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+3
+please enter username
+sara_2
+please write your massage
+we have adiscount for you
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+8
+******Good bye liberian********
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+3
+Enter Username : sara_2
+
+Enter Password : 2002
+**** HI , Welcome sara_2 ******
+
+1) Borrow a book
+2) pay fees
+3) view massages
+4) search for a specific book
+5) exit
+3
+1)  please return the book
+
+
+2)  this book is availble Computers Made Easy
+
+
+3)  this book is availble Meditations
+
+
+4)  the book you want is available
+
+
+5)  we have adiscount for you
+
+
+**** HI , Welcome sara_2 ******
+
+1) Borrow a book
+2) pay fees
+3) view massages
+4) search for a specific book
+5) exit
+5
+****** Good bye ********
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+

@@ -1,0 +1,455 @@
+/*
+1.add new user  
+2.view all user
+3.delet user
+
+
+
+
+
+*/
+
+
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+1
+Enter Username :
+
+admin
+
+Enter Password
+
+1234
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+5
+=====================================================
+Liberians
+*******************************************
+name : mohammad
+username : moh_22
+password : 2002
+email : mohammad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : Ali
+username : Ali_23
+password : 2002
+email : ali@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : omar
+username : omar_24
+password : 2002
+email : omar@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : ahmad
+username : ahmad_25
+password : 2002
+email : ahmad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+=====================================================
+Patrons
+*******************************************
+name : sara
+username : sara_2
+password : 2002
+email : sara@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : amr
+username : amr_1
+password : 2002
+email : amr@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+=====================================================
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+7
+moh_22
+Ali_23
+omar_24
+ahmad_25
+sara_2
+amr_1
+******************************************************Enter username that you want to delete :
+omar_24
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+7
+moh_22
+Ali_23
+ahmad_25
+sara_2
+amr_1
+******************************************************Enter username that you want to delete :
+Ali_23
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+5
+=====================================================
+Liberians
+*******************************************
+name : mohammad
+username : moh_22
+password : 2002
+email : mohammad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : ahmad
+username : ahmad_25
+password : 2002
+email : ahmad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+=====================================================
+Patrons
+*******************************************
+name : sara
+username : sara_2
+password : 2002
+email : sara@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : amr
+username : amr_1
+password : 2002
+email : amr@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+=====================================================
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+1
+enter the name
+saqur
+enter the username
+saq_22
+enter password
+2002
+enter the email address
+saqur@gmail.com
+enter the user type (L:liberian,P:patron)
+l
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+1
+enter the name
+salah
+enter the username
+sal_23
+enter password
+2002
+enter the email address
+salah@yahoo.com
+enter the user type (L:liberian,P:patron)
+p
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+5
+=====================================================
+Liberians
+*******************************************
+name : mohammad
+username : moh_22
+password : 2002
+email : mohammad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : ahmad
+username : ahmad_25
+password : 2002
+email : ahmad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : saqur
+username : saq_22
+password : 2002
+email : saqur@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+=====================================================
+Patrons
+*******************************************
+name : sara
+username : sara_2
+password : 2002
+email : sara@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : amr
+username : amr_1
+password : 2002
+email : amr@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : salah
+username : sal_23
+password : 2002
+email : salah@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+=====================================================
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+9
+*********Good bye ADMIN*************
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+4
+Regestration new account
+enter the name
+essa
+enter the username
+ess_3
+enter password
+2002
+enter the email address
+essa@gmail.com
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+1
+Enter Username :
+
+admin
+
+Enter Password
+
+1234
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+5
+=====================================================
+Liberians
+*******************************************
+name : mohammad
+username : moh_22
+password : 2002
+email : mohammad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : ahmad
+username : ahmad_25
+password : 2002
+email : ahmad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : saqur
+username : saq_22
+password : 2002
+email : saqur@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+=====================================================
+Patrons
+*******************************************
+name : sara
+username : sara_2
+password : 2002
+email : sara@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : amr
+username : amr_1
+password : 2002
+email : amr@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : salah
+username : sal_23
+password : 2002
+email : salah@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : essa
+username : ess_3
+password : 2002
+email : essa@gmail.com
+fees  = 0
+Type  : Patron
+*******************************************
+=====================================================
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+1
+enter the name
+salah1
+enter the username
+sal_23
+invalid username
+re-enter username
+sal1_23
+enter password
+2002
+enter the email address
+salah1@gmail.com
+enter the user type (L:liberian,P:patron)
+p

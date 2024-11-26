@@ -1,0 +1,177 @@
+/*
+1.اختبار فنكشن التعديل و اظهار جميع المستعملين 
+
+
+*/
+
+
+
+
+
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+1
+Enter Username :
+
+admin
+
+Enter Password
+
+1234
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+2
+******************************************************Enter username that you want mdify : mana_10
+**** modify list ******
+
+1) username
+2) name
+3) password
+4) email
+5) exit
+1
+Enter new username  : tal_10
+**** modify list ******
+
+1) username
+2) name
+3) password
+4) email
+5) exit
+2
+Enter new name  : tala
+**** modify list ******
+
+1) username
+2) name
+3) password
+4) email
+5) exit
+4
+Enter new email  : tala@gmail.com
+**** modify list ******
+
+1) username
+2) name
+3) password
+4) email
+5) exit
+5
+
+
+End of modiying
+
+
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :
+5
+=====================================================
+Liberians
+*******************************************
+name : mohammad
+username : moh_22
+password : 2002
+email : mohammad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : ahmad
+username : ahmad_25
+password : 2002
+email : ahmad@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+*******************************************
+name : saqur
+username : saq_22
+password : 2002
+email : saqur@gmail.com
+fees  = 0
+Type  : Liberian
+*******************************************
+=====================================================
+Patrons
+*******************************************
+name : sara
+username : sara_2
+password : 2002
+email : sara@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : amr
+username : amr_1
+password : 2002
+email : amr@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : salah
+username : sal_23
+password : 2002
+email : salah@yahoo.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : essa
+username : ess_3
+password : 2002
+email : essa@gmail.com
+fees  = 0
+Type  : Patron
+*******************************************
+*******************************************
+name : tala
+username : tal_10
+password : 2002
+email : tala@gmail.com
+fees  = 0
+Type  : Patron
+*******************************************
+=====================================================
+**** HI , Welcome Administrator ****
+
+1) Add a user
+2) modify user
+3) add book
+4) view all Books
+5) view all users
+6) financial report
+7) delete user
+8) delete a book
+9) Logout
+
+please Enter Your Choice :

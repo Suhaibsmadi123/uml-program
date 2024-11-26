@@ -1,0 +1,52 @@
+/*
+financial report
+بعد استعارة وإعادة اكثر من كتاب    
+
+
+
+
+
+
+*/
+
+
+
+
+
+1) Login as Admin
+2) Login as Liberian
+3) Login as Patron
+4) Regester new Patron
+5) Exit
+
+Please Enter Your Choice
+
+2
+Enter Username : moh_22
+
+Enter Password : 2002
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
+4
+****************************************************
+total collected fines = 3.7
+total uncollected fines = -1
+****************************************************
+**** HI , Welcome moh_22 ******
+
+1) add book
+2) view all Books
+3) send a personal massage
+4) financial report
+5) check out
+6) checkin
+7) search for a specific book
+8) exit
